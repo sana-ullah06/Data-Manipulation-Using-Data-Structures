@@ -1,0 +1,4 @@
+# Data-Manipulation-Using-Data-Structures
+This program is meant to do manipulation using Data Structures. You need Eclipse or Net Beans to run the code. There are three .java files which we will need to manipulate our fourth .csv file which contains our Data which is to be manipulate. The Driver.java file is an simple example of how we will use data structure using a simple array-list. Our main file is CommodityDriverMaster.java it contain the object of commodity.java class and it has implemented all Data Structures e.g Linked List Queue Stack etc. Commodity class contains all of our data. The .pdf file is a certificate which I earn from Coursera Project of Applying Data Structures To Manipulate Cleansed UN Data. 
+I have a You-tube channel where I explain all  of these myself the link is given below.
+https://youtu.be/zNmn-V5diB4
